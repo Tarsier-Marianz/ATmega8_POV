@@ -9,4 +9,4 @@ A simple persistence-of-vision (POV) display with an ATmega8 microcontroller
 
 ### Thanks
 
-[KiCad IDE](kicad-pcb.org/) - for letting me use a free software in designing PCB
+[KiCad IDE](http://kicad-pcb.org/) - for letting me use a free software in designing PCB

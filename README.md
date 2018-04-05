@@ -1,6 +1,6 @@
 # ATmega8-POV
 
-A simple persistence-of-vision (POV) display with an ATmega8 microcontroller
+A simple persistence-of-vision (POV) display with ATmega8 microcontroller
 
 ![Image1](/ATmega8_POV.png?raw=true "Atmega 8 POV")
 
